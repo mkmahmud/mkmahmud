@@ -1,8 +1,8 @@
 
 
-### Hi there, I'm Mahmud - [MK][https://portfolio-c032c.firebaseapp.com/] 😎
+### Hi there, I'm Mahmud 
 
-## I'm a Junior Web Developer!!
+## I'm a Web Developer!!
 
 - 🌱 I’m currently learning everything 😇
 - 🥅 2023 Goals: Contribute  to Open Source projects 📝
