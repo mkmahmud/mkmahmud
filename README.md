@@ -5,7 +5,6 @@
 ## I'm a Web Developer!!
 
 - 🌱 I’m currently learning everything 😇
-- 🥅 2023 Goals: Contribute  to Open Source projects 📝
 - ⚡ Fun fact: I love to travel ✈🚢
 
 
