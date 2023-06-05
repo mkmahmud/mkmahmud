@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan MK</h1>
 <h3 align="center">Building Web Solutions with the MERN Stack: Junior Developer's Journey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkmahmud&label=Profile%20views&color=0e75b6&style=flat" alt="mkmahmud" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkmahmud" alt="mkmahmud" /></a> </p>
 
 - 🔭 I’m currently working on [University Management System](https://github.com/mkmahmud/UMS-2.git)
 
