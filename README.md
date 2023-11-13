@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Next, Redux, Postgres, SQL, Docker, AWS, GraphQL, Jest, React Native, etc.**
 
-- 👨‍💻 All of my projects are available at [https://mahmudul-hasan-mk.web.app/](https://mahmudul-hasan-mk.web.app/)
+- 👨‍💻 All of my projects are available at [https://mkmahmud.com](https://mkmahmud.com)
 
 - 💬 Ask me about **React, JavaScript, TypeScript, MongoDB, Node, Tailwind, Bootstrap, etc.**
 
 - 📫 How to reach me **mahmudulmk4 at gmail dot com**
 
-- 📄 Know about my experiences [https://mahmudul-hasan-mk.web.app/resume](https://mahmudul-hasan-mk.web.app/resume)
+- 📄 Know about my experiences [https://mkmahmud.com](https://mkmahmud.com)
 
 - ⚡ Fun fact **Did you know that the world's first website was created by Sir Tim Berners-Lee, the inventor of the World Wide Web, back in 1991? The site was hosted on Berners-Lee's NeXT computer and contained information about the World Wide Web project itself. It served as a basic guide and introduction to the concept of the web. Today, web development has come a long way, and we owe it all to that humble beginning!**
 
