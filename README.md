@@ -4,7 +4,7 @@
 <h3 align="center">Building Web Solutions with the MERN Stack: Junior Developer's Journey</h3>
 
 
-- 🔭 I’m currently working on [Fittness Application](https://github.com/mkmahmud/fitness.git)
+- 🔭 I’m currently working on [Blossom Academy](https://github.com/mkmahmud/Blossom-Academy-Frontend)
 
 - 🌱 I’m currently learning **Next, Redux, Postgres, SQL, Docker, AWS, GraphQL, Jest, React Native, etc.**
 
