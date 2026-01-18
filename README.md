@@ -1,6 +1,4 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MAHMUDUL HASAN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=55&descSize=20" width="100%" />
-
-
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Mahmudul%20Hasan%20&reversal=true&fontAlignY=38&animation=twinkling&section=header&textBg=false" width="100%" />
  
 <!-- Animated Subtitle -->
 
