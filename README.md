@@ -1,38 +1,93 @@
- <img src="/hero.gif"><br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<h3 align="center">Building Web Solutions with the MERN Stack: Junior Developer's Journey</h3>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MAHMUDUL HASAN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=55&descSize=20" width="100%" />
 
 
-- 🔭 I’m currently working on [Blossom Academy](https://github.com/mkmahmud/Blossom-Academy-Frontend)
+ 
+<!-- Animated Subtitle -->
 
-- 🌱 I’m currently learning **Next, Redux, Postgres, SQL, Docker, AWS, GraphQL, Jest, React Native, etc.**
-
-- 👨‍💻 All of my projects are available at [https://mkmahmud.com](https://mkmahmud.com)
-
-- 💬 Ask me about **React, JavaScript, TypeScript, MongoDB, Node, Tailwind, Bootstrap, etc.**
-
-- 📫 How to reach me **mahmudulmk4 at gmail dot com**
-
-- 📄 Know about my experiences [https://mkmahmud.com](https://mkmahmud.com)
-
-- ⚡ Fun fact **Did you know that the world's first website was created by Sir Tim Berners-Lee, the inventor of the World Wide Web, back in 1991? The site was hosted on Berners-Lee's NeXT computer and contained information about the World Wide Web project itself. It served as a basic guide and introduction to the concept of the web. Today, web development has come a long way, and we owe it all to that humble beginning!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mahmudulmk4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mahmudulmk4" height="30" width="40" /></a>
-<a href="https://twitter.com/mahmudulmk4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmudulmk4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mkmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkmahmud" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16854390/md-mahmudul-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16854390/md-mahmudul-hasan" height="30" width="40" /></a>
-<a href="https://fb.com/mkmahmuddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mkmahmuddev" height="30" width="40" /></a>
-<a href="https://instagram.com/mahmudulmk4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmudulmk4" height="30" width="40" /></a>
-<a href="https://www.behance.net/mahmudulhasanmk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mahmudulhasanmk1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mkmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mkmahmud" height="30" width="40" /></a>
+<p align="center">
+  <strong>MERN • Next.js • PostgreSQL • AWS</strong><br/>
+  <sub>Building scalable, performance-driven web applications</sub>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkmahmud&show_icons=true&locale=en&layout=compact" alt="mkmahmud" /></p>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=6"
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkmahmud&show_icons=true&locale=en" alt="mkmahmud" /></p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mkmahmud&style=flat-square)
+ 
+### 👨‍💻 Overview
+
+I build products, not just websites.
+
+Over the last **3+ years**, I’ve designed and shipped full-stack applications across EdTech, Travel, E-commerce, and Fitness domains. My work is driven by **real user needs**, clean architecture, and scalable systems.
+
+I enjoy turning complex requirements into simple and intuitive experiences, while keeping performance and security as top priorities.
+
+
+ 
+### 🛠 Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) |
+| **Styling** | ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Shadcn](https://img.shields.io/badge/-Shadcn/UI-000000?logo=shadcnui&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![tRPC](https://img.shields.io/badge/-tRPC-2596BE?logo=trpc&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
+| **Cloud/Tools** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+
+---
+
+### 🏗 Featured Work
+Over the past 3 years, I have shipped 20+ full-stack applications, including:
+* 🎓 **Ed-Tech Systems:** Learning management systems with progress tracking.
+* 🚗 **Car & Travel Booking:** Real-time availability and secure payment integrations.
+* 🛒 **E-Commerce:** Scalable storefronts with complex state management.
+* 💪 **Fitness Platforms:** Personalized workout tracking and data visualization.
+
+---
+ 
+
+### 📫 Connect with me
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome)](https://mahmudul-7da62.web.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mkmahmud)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahmudulmk4@gmail.com)
+
+ 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkmahmud&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkmahmud&layout=compact&theme=transparent)
+
+ 
+
+
+
+
+ <!-- Animated Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
+
+
+
+ 
+<p align="center">
+  <strong>Let’s build something meaningful.</strong>
+</p>
+
+<p align="center">
+  <sub>
+    Designing scalable systems · Writing clean code · Shipping real products
+  </sub>
+</p>
+
+
+
+
+
+
